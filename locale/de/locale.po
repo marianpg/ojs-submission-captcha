@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "plugins.generic.submissionCaptcha.displayName"
+msgstr "Captcha für Einreichungen"
+
+msgid "plugins.generic.submissionCaptcha.description"
+msgstr ""
+"Verlangt auf der ersten Seite des Einreichungsassistenten ein Captcha, bevor "
+"eine neue Einreichung angelegt wird. Verwendet die Einstellungen für "
+"reCAPTCHA oder ALTCHA aus dem Abschnitt [captcha] der config.inc.php und "
+"wirkt nur, wenn eines davon eingeschaltet und eingerichtet ist."
+
+msgid "plugins.generic.submissionCaptcha.field.label"
+msgstr "Spamschutz"
+
+msgid "plugins.generic.submissionCaptcha.field.labelWithType"
+msgstr "Spamschutz ({$type})"
+
+msgid "plugins.generic.submissionCaptcha.altcha.error"
+msgstr ""
+"Der Spamschutz konnte nicht bestätigt werden. Bitte laden Sie die Seite neu "
+"und lösen Sie ihn erneut."

@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "plugins.generic.submissionCaptcha.displayName"
+msgstr "Submission Captcha"
+
+msgid "plugins.generic.submissionCaptcha.description"
+msgstr ""
+"Requires a captcha on the first page of the submission wizard before a new "
+"submission is created. Uses the reCAPTCHA or ALTCHA settings from the "
+"[captcha] section of config.inc.php and only takes effect when one of them "
+"is switched on and configured."
+
+msgid "plugins.generic.submissionCaptcha.field.label"
+msgstr "Spam protection"
+
+msgid "plugins.generic.submissionCaptcha.field.labelWithType"
+msgstr "Spam protection ({$type})"
+
+msgid "plugins.generic.submissionCaptcha.altcha.error"
+msgstr ""
+"The spam protection could not be confirmed. Please reload the page and solve "
+"it again."
